@@ -1,7 +1,9 @@
 # TASKS-VM No-1
 
 In this task I created a webpage with reference to this ui screen.
-![webpage](https://github.com/Bavadharini18/TASKS-VM/assets/130160473/adb7d873-dae2-4ee8-ac14-295535797a1a)
+![webpage](https://github.com/Bavadharini18/TASKS-VM/assets/130160473/81b8fab0-1f6f-454d-95c4-84c950242471)
+
+
 
 # How I did this project?
 
@@ -10,4 +12,4 @@ In this task I created a webpage with reference to this ui screen.
 # This is how the dashboard looks likes
 This a responsive sidebar which is navigating the vehicle management page
 
-![Dashboard](https://github.com/Bavadharini18/TASKS-VM/assets/130160473/fdf4828a-4ba3-452c-91ba-22092bb5c57a)
+![Dashboard](https://github.com/Bavadharini18/TASKS-VM/assets/130160473/fb6905d1-4031-4001-a7f4-b666064a1f28)
