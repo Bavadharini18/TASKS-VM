@@ -21,4 +21,4 @@ This a responsive sidebar which is navigating the vehicle management page
 # Source File
 HTML-example1.html
 CSS-example1.css
-Images-Readme File
+Images-Demo File
