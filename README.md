@@ -13,3 +13,12 @@ In this task I created a webpage with reference to this ui screen.
 This a responsive sidebar which is navigating the vehicle management page
 
 ![Dashboard](https://github.com/Bavadharini18/TASKS-VM/assets/130160473/fb6905d1-4031-4001-a7f4-b666064a1f28)
+
+# FINAL RESULT
+
+![Screenshot of vm](https://github.com/Bavadharini18/TASKS-VM/assets/130160473/269293ac-73f4-4ada-aad4-7f78c1a334f4)
+
+# Source File
+HTML-example1.html
+CSS-example1.css
+Images-Readme File
