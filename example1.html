@@ -244,20 +244,28 @@
                             <td>Yes</td>
                             <td>01 JAN 2023</td>
                             <td>
-                                <div class="table-drop1"> <select name="Inspection" id="inspected">
-                                        <option value="inspection1">Inspected</option>
-                                        <option value="pending">pending</option>
-                                        <option value="Rejected">rejected</option>
-                                        <option value="incomplete">incomplete</option>
-                                    </select></div>
+                                <div class="table-drop1"><select
+                                    onchange="this.className=this.options[this.selectedIndex].className"
+                                    class="greenText">
+                                     <option class="greenText" value="apple" >Inspected</option>
+                                    <option class="redText"   value="banana" >Pending</option>
+                                    <option class="blueText" value="grape" >Approved</option>
+                                    <option class="yellowText" value="grape" >Rejected</option>
+                                    <option class="brownText" value="grape" >incomplete</option>
+
+                                </select></div>
                             </td>
                             <td>
-                                <div class="table-drop2"><select name="vehicl" id="vehicle-list">
-                                        <option value="Active">Active</option>
-                                        <option value="Inactive">Inactive</option>
-                                        <option value="idle">idle</option>
-                                        <option value="blocked">blocked</option>
-                                    </select> </div>
+                                <div class="table-drop2"><select
+                                    onchange="this.className=this.options[this.selectedIndex].className"
+                                    class="dropdown2">
+                                     <option class="active" value="apple" >Active</option>
+                                    <option class="inactive"   value="banana" >Inactive</option>
+                                    <option class="idle" value="grape" >Idle</option>
+                                    <option class="blocked" value="grape" >blocked</option>
+                                    <option class="locked" value="grape" >locked</option>
+
+                                </select> </div>
                             </td>
                             <td><img src="eye.png" alt="" width="24" height="20">
                                 <img src="pen.png" alt="" width="24" height="20">
@@ -277,20 +285,28 @@
                             <td>No</td>
                             <td>01 JAN 2023</td>
                             <td>
-                                <div class="table-drop1"> <select name="Inspection" id="inspected2">
-                                        <option value="inspection1">Rejected</option>
-                                        <option value="pending" id="pending">pending</option>
-                                        <option value="Rejected">rejected</option>
-                                        <option value="incomplete">incomplete</option>
-                                    </select></div>
+                                <div class="table-drop1"><select
+                                    onchange="this.className=this.options[this.selectedIndex].className"
+                                    class="greenText">
+                                     <option class="greenText" value="apple" >Inspected</option>
+                                    <option class="redText"   value="banana" >Pending</option>
+                                    <option class="blueText" value="grape" >Approved</option>
+                                    <option class="yellowText" value="grape" >Rejected</option>
+                                    <option class="brownText" value="grape" >incomplete</option>
+
+                                </select></div>
                             </td>
                             <td>
-                                <div class="table-drop1"><select name="vehicl" id="vehicle-list2">
-                                        <option value="Active">Idle</option>
-                                        <option value="Inactive">Inactive</option>
-                                        <option value="idle">idle</option>
-                                        <option value="blocked">blocked</option>
-                                    </select> </div>
+                                <div class="table-drop1"><select
+                                    onchange="this.className=this.options[this.selectedIndex].className"
+                                    class="dropdown2">
+                                     <option class="active" value="apple" >Active</option>
+                                    <option class="inactive"   value="banana" >Inactive</option>
+                                    <option class="idle" value="grape" >Idle</option>
+                                    <option class="blocked" value="grape" >blocked</option>
+                                    <option class="locked" value="grape" >locked</option>
+
+                                </select>  </div>
                             </td>
                             <td> <img src="eye.png" alt="" width="24" height="20">
                                 <img src="pen.png" alt="" width="24" height="20">
