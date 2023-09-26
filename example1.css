@@ -11,6 +11,34 @@
 .side1{
   display: flex;
 }
+.greenText{ background-color: #e5ebff;color:#003cff}
+
+.blueText{ background-color: #d6f4e5; color:#2cad6d; }
+
+.redText{ background-color:
+  #edccac; color:#ffa200; }
+
+.yellowText{
+background-color:pink;color: #ff0000;
+}
+.brownText{
+  background-color:
+  #ffcf7b ;color: 
+  #ab6c00;
+}
+.active{background-color: #d6f4e5; color:#2cad6d;}
+.inactive{
+  background-color:pink;color: #ff0000;  
+}
+.idle{background-color:
+  #edccac; color:#ffa200;}
+  .blocked{
+    background-color:
+    #ffcf7b ;color: 
+    #ab6c00;
+  }
+  .locked{color:#5e6c7a;background-color: 
+    #a3b5c6;  }
 .Path-45633 {
   width: 16px;
   height: 16px;
